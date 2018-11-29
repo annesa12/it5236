@@ -28,7 +28,7 @@ $errors = array();
 	<p>
 		This website allows people to put in suggestions for what type of companies they would like to incorporate in their communities.   
 		 In order to put in your suggestion you must <a href="login.php">create an account</a> or proceed directly to the 
-		<a href="login.php">login page</a>. For more information about different companies, click the information tab on the top right hand corner of the page.
+		<a href="login.php">login page</a>.
 	</p>
 <img src="https://www.lib.umd.edu/binaries/content/gallery/public/services/suggestions1.jpg" alt="suggest" width="100" height="333">
 <?php include 'include/footer.php'; ?>

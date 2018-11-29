@@ -40,8 +40,6 @@
 			&nbsp;&nbsp;
 			<a href="editprofile.php">Profile</a>
 			&nbsp;&nbsp;
-			<a href="form.php">Suggestion Form</a>
-			&nbsp;&nbsp;
 			<?php if ($isadmin) { ?>
 				<a href="admin.php">Admin</a>
 				&nbsp;&nbsp;

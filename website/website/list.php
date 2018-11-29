@@ -55,9 +55,9 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 <html lang="en">
 <head>
 	<meta charset="utf-8">
-	<title>russellthackston.me</title>
-	<meta name="description" content="Annesa Robinson personal website for IT 5233">
-	<meta name="author" content="Annesa Robinson">
+	<title>annesarobinson.me</title>
+	<meta name="description" content="Russell Thackston's personal website for IT 5233">
+	<meta name="author" content="Russell Thackston">
 	<link rel="stylesheet" href="css/style.css">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
@@ -66,7 +66,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 	2. If no errors display things -->
 <body>
 	<?php include 'include/header.php'; ?>
-	<h2>Suggestion References</h2>
+	<h2>Suggestion references </h2>
 	
 	<?php include('include/messages.php'); ?>
 	
